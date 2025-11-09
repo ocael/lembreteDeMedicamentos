@@ -1,4 +1,4 @@
-# **Lembrete de Remédios com Alarme Programável**
+# **Lembrete de Remédios**
 
 Este repositório implementa um sistema de **lembrete de medicamentos**, utilizando um ESP32, display OLED, potenciômetro, buzzer e LED. O horário do alarme é configurado através do potenciômetro, e a comunicação ocorre via protocolo MQTT, com sincronização de horário via NTP.
 
