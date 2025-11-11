@@ -37,7 +37,7 @@ Este repositório implementa um sistema de **lembrete de medicamentos**, utiliza
 
    * Quando o horário atual coincide com o horário configurado:
      * O **LED acende**
-     * O **buzzer emite som intermitente** (500ms de intervalo)
+     * O **buzzer emite som intermitente**
      * O **display mostra mensagem de alerta**
 
 5. **Exibição local**
